@@ -34,11 +34,12 @@ header {
 }
 
 .list a {
-  color: aliceblue;
+  color: #c8f3f7;
 }
 
 .compra {
   height: 20px;
+  color: #c8f3f7;
 }
 
 body {
