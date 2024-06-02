@@ -7,6 +7,7 @@
   font-family: "Rubik", sans-serif;
   list-style: none;
   text-decoration: none;
+  /* border: 1px solid red; */
 }
 
 header {
@@ -24,24 +25,22 @@ header {
   justify-content: center;
   align-items: center;
   gap: 55px;
-  font-size: 14;
   font-weight: 600;
+  font-size: 18px;
 }
 
 .logo {
-  height: 90px;
-  padding-left: 50px;
+  height: 80px;
 }
 
 .list a {
-  color: #c8f3f7;
+  color: #fff;
 }
 
 .compra {
   height: 20px;
-  color: #c8f3f7;
 }
 
 body {
-  background: url(img/Lineas-fondo-1.jpg);
+  background: url(img/Lineas-fondo-1.jpg) no-repeat;
 }
